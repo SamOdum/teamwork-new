@@ -24,10 +24,15 @@
   },
   "homepage": "https://github.com/SamOdum/teamwork-new#readme",
   "dependencies": {
+    "bcrypt": "^3.0.7",
+    "dotenv": "^8.2.0",
     "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-import": "^2.18.2",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "express-validator": "^6.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "pg": "^7.13.0"
   },
   "devDependencies": {
     "nodemon": "^1.19.4"
