@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/SamOdum/teamwork-new#readme",
   "dependencies": {
-    "bcrypt": "^3.0.7",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "eslint": "^6.6.0",
     "eslint-config-airbnb-base": "^14.0.0",
